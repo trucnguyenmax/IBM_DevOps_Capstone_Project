@@ -1,1 +1,1 @@
-# IBM_DevOps_Capstone_Project
+# IBM DevOps Capstone Project
